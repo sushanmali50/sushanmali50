@@ -1,72 +1,39 @@
 # Sushan Mali
+### Robotics · Embedded Systems · Computer Vision
 
-## 👋 Hi there!
+I am a Robotics and Intelligent Systems graduate from Constructor University Bremen (B.Sc., 2025). I build projects that connect sensing, control, embedded hardware, and software interfaces.
 
-I'm a driven Robotics student at Constructor University in Bremen, focusing on pioneering personal robotics projects. With a dedication to problem-solving and adaptability honed by studying abroad, I'm excited to bring innovative ideas to the forefront of the robotics field.
+I am interested in junior and working-student opportunities in embedded software, robotics software, and automation. My work includes ESP32 firmware, Raspberry Pi robotics, ROS 2 nodes, and Python computer vision.
 
-### 📚 Education
+## Selected projects
 
-- **Constructor University**
-  - BSc, Robotics and Intelligent Systems (2022-2025)
-- **Budhanilkantha School**
-  - High School Diploma
-  - Cambridge (GCE) AS and A-levels
-  - Completed in 2021
+| Project | Engineering focus | Start here |
+| --- | --- | --- |
+| **ESP32 & Firebase robot coordination — bachelor thesis** | Embedded C++, sensor integration, cloud-mediated coordination with a Raspberry Pi arm | [Code, architecture & demo](https://github.com/sushanmali50/esp32_firebase_thesis) |
+| **ROS 2 camera line follower** | OpenCV perception, ROS messaging, differential motor control on Raspberry Pi | [Implementation & setup](https://github.com/sushanmali50/ros2_line_follower) |
+| **Robot arm controller** | Python GUI, I²C/PCA9685 interface, individual servo control | [Hardware & demo](https://github.com/sushanmali50/6DoF-Arm) |
+| **Arduino obstacle-avoiding robot** | Ultrasonic sensing, servo scanning, reactive motor control | [Circuit & firmware](https://github.com/sushanmali50/obsavoidingrobot) |
+| **Hand-gesture volume control** | MediaPipe landmarks, OpenCV visualization, Windows audio integration | [Application & demo](https://github.com/sushanmali50/volume-cntrl-cv2) |
 
-### 🤖 Personal Projects
+These are academic and personal prototypes. Each project documents its implementation, setup requirements, and limitations; hardware demonstrations are linked where available.
 
-- **Obstacle Avoiding Robot**
-  - Utilized Arduino and ultrasonic sensor for navigation through obstacles.
-  
-- **6-DoF Robot Arm**
-  - Crafted with MG996R servo motors, enabling multi-faceted movement and precise object manipulation.
+## Technical background
 
-- **Finger-Gesture Volume Control System**
-  - Python application integrating OpenCV and MediaPipe for intuitive, real-time volume control via hand gestures.
+- **Languages:** C, C++, Python
+- **Embedded hardware:** ESP32, Arduino/ATmega328, Raspberry Pi, PWM motor and servo interfaces
+- **Robotics:** ROS/ROS 2, sensor integration, line following, robot coordination
+- **Vision and interfaces:** OpenCV, MediaPipe, Firebase Realtime Database, Flutter
 
-### 💼 Work Experience
+## Education and experience
 
-- **Teaching Assistant**
-  - Introduction to Robotics and Intelligent Systems Lab (Since Feb 2024)
+- **B.Sc. Robotics and Intelligent Systems**, Constructor University Bremen, 2025
+- **Teaching assistant:** robotics and embedded systems laboratory support
+- **OLE Nepal internship:** robotics education modules and teacher training, 2024
 
-### 🔬 Laboratory Experience at CUB
+My next academic focus is embedded systems, building on my robotics background.
 
-- **General Electrical Engineering Lab I**
-  - (Oct 2022 - Nov 2022)
-- **Classical Physics Lab RIS Group**
-  - (Sep 2022 - Dec 2022)
-- **Introduction to Robotics and Intelligent Systems Lab**
-  - (Feb 2023 - Mar 2023)
-- **Embedded Systems**
-  - (Sep 2023 - Oct 2023)
-- **RIS Lab I**
-  - (Sep 2023 - Dec 2023)
+## Contact
 
-### 💡 Skills
+[Email](mailto:sushanmali50@gmail.com) · [GitHub](https://github.com/sushanmali50)
 
-- Embedded Systems
-- C, C++, Python Programming
-- ROS, ROS2
-- Control Systems
-- Computer Vision
-- Raspberry Pi and Arduino Applications
-- MATLAB
-- Critical Thinking
-
-### 🌐 Languages
-
-- Nepali (Mother tongue)
-- English (Fluent)
-- German (B1.1)
-
-### 🏆 Scholarships
-
-- **Jacobs University Bremen Scholarship**
-  - Merit-based scholarship for the duration of the study program (Since June 2022)
-
----
-
-Feel free to explore my projects, leave feedback, or collaborate on interesting endeavors.
-
-Contact me at: sushanmali50@gmail.com
-
+English: fluent · German: B1 · Nepali: native
