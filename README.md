@@ -1,7 +1,7 @@
 # Sushan Mali
 ### Robotics · Embedded Systems · Computer Vision
 
-I am a Robotics and Intelligent Systems graduate from Constructor University Bremen (B.Sc., 2025). I build projects that connect sensing, control, embedded hardware, and software interfaces.
+I am a Robotics and Intelligent Systems graduate from Constructor University Bremen (B.Sc., 2025). I will begin my M.Sc. in Embedded Systems at TU Chemnitz in October 2026. I build projects that connect sensing, control, embedded hardware, and software interfaces.
 
 I am interested in junior and working-student opportunities in embedded software, robotics software, and automation. My work includes ESP32 firmware, Raspberry Pi robotics, ROS 2 nodes, and Python computer vision.
 
@@ -26,11 +26,10 @@ These are academic and personal prototypes. Each project documents its implement
 
 ## Education and experience
 
+- **M.Sc. Embedded Systems**, TU Chemnitz — incoming; October 2026–September 2028 (expected, four semesters)
 - **B.Sc. Robotics and Intelligent Systems**, Constructor University Bremen, 2025
 - **Teaching assistant:** robotics and embedded systems laboratory support
 - **OLE Nepal internship:** robotics education modules and teacher training, 2024
-
-My next academic focus is embedded systems, building on my robotics background.
 
 ## Contact
 
